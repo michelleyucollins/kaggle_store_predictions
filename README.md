@@ -1,4 +1,4 @@
-This repository contains work done towards the Kaggle 'Store Sales - Time Series Forecasting Modified' Data Analytics / Machine Learning Learner's competition.
+This repository contains work done towards the Kaggle '**Store Sales - Time Series Forecasting Modified**' Data Analytics / Machine Learning Learner's competition.
 
 I am no longer changing what is in this code base, however I may be reopening it should I attempt a different method of approaching this problem. 
 
