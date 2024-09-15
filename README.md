@@ -4,7 +4,6 @@ I am no longer changing what is in this code base, however I may be reopening it
 
 The following is the description from the Competition:
 
-''
 ** Goal of the Competition **
 In this “getting started” competition, you’ll use time-series forecasting to forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer.
 
@@ -17,4 +16,3 @@ Current subjective forecasting methods for retail have little data to back them 
 
 ** Potential Impact **
 If successful, you'll have flexed some new skills in a real world example. For grocery stores, more accurate forecasting can decrease food waste related to overstocking and improve customer satisfaction. The results of this ongoing competition, over time, might even ensure your local store has exactly what you need the next time you shop.
-''
